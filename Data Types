@@ -1,0 +1,9 @@
+print(true)
+print(false)
+
+print(100)
+print(-100)
+print(100.50)
+
+print("This is a string.")
+print('This is a string.')
