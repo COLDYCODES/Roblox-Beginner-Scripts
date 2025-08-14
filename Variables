@@ -1,0 +1,4 @@
+local myVariableIsFifty = 50
+print(myVariableIsFifty)
+print(myVariableIsFifty)
+print(myVariableIsFifty)
