@@ -1,0 +1,9 @@
+local function printABC()
+	print("A")
+	print("B")
+	print("C")
+end
+
+printABC()
+printABC()
+printABC()
