@@ -1,0 +1,5 @@
+local baseplate = game.Workspace.Baseplate
+
+baseplate.Transparency = 0.25
+baseplate.Material = "Brick"
+baseplate.CastShadow = false
