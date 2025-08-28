@@ -1,0 +1,6 @@
+local function addition(number1, number2)
+	local result = number1 + number2
+	print(result)
+end
+
+addition(5, 2)
